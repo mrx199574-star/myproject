@@ -1,5 +1,4 @@
-# myproject
-#this is test repo
+
 import random
 
 print("Welcome to the number guessing Game")
